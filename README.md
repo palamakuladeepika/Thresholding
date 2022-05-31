@@ -77,32 +77,22 @@ cv2.waitKey(0)
 ## Output
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
-<br>
+![de1](https://user-images.githubusercontent.com/94154679/171162646-b37fd364-4acf-49a4-86ee-3a99b5970d70.png)
+
+![de2](https://user-images.githubusercontent.com/94154679/171162632-633c48dc-d8b6-46a5-b3f2-4781ae7d6f99.png)
+
 
 ### Global Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![de5](https://user-images.githubusercontent.com/94154679/171162743-ccacd33d-8cac-4e83-8075-6a9382364934.png)
+![de4](https://user-images.githubusercontent.com/94154679/171162748-eb82e95c-cf02-4e4a-a7c5-0c535f6bb682.png)
+![de3](https://user-images.githubusercontent.com/94154679/171162751-40dc3350-d8cb-4a48-b46d-74629f4ebc35.png)
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+![de6](https://user-images.githubusercontent.com/94154679/171162873-5dee5faa-f548-456a-b1af-5815a6950757.png)
+
 
 ### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+![de7](https://user-images.githubusercontent.com/94154679/171162928-03a7b4bd-fade-4a6f-8f1c-f095e2ef6677.png)
 
 
 ## Result
